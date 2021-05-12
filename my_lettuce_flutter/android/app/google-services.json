@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996645502563",
+    "firebase_url": "https://marulum-b1044-default-rtdb.firebaseio.com",
+    "project_id": "marulum-b1044",
+    "storage_bucket": "marulum-b1044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996645502563:android:4a7001b54c643e3c184256",
+        "android_client_info": {
+          "package_name": "com.example.marulum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996645502563-km3e9be3dq68l104ck9pej5575ct49cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRVbLdfPq69Cwoj4swapAh_LnnDZd1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996645502563-km3e9be3dq68l104ck9pej5575ct49cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
