@@ -1,0 +1,7 @@
+Fiebase projesi başlat
+android app girişi yapılacak
+package name alanına flutter projesinin android->app->src->build gradle ->defaultConfig->applicationId veerisi girilir
+google service dosyasını android->app- altına yapıstır
+classpath bilgisini android->build_gradle->dependencies altına 
+alttaki verileri android->app->src->build_gradle depencies ve apply plugine yapıstır
+ defaultconfig altına multiDexEnabled true ekle
